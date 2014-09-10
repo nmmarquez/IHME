@@ -80,3 +80,27 @@
   * Its hard to isolate a program when other programs are scaled up at the same time  
   * At best you can analyze the programs as a whole  
   * You need lots of data in order to do subnational level estimates  
+
+# Evaluation Project II: HealthRise  
+
+## Overview  
+  * Expand access of care for NCDs especially in the historically non-recieving  
+  * Implemented in several India, USA, South Africa, Brazil  
+  * 5 year project lasting till 2018  
+
+## IHME's role  
+  1. In Country Needs (2014-2015)  
+  2. Monitor and Asses Local Projects (2015-2017)  
+  3. Conduct Impact Evaluation (2017-2018)  
+
+## Know your target group  
+  * Important to know your target group and who to compare them too  
+  * This may shift based on the needs of the community  
+
+## Know the type of program  
+  * Patient? Provider? Technology?
+  * What is the project oriented towards  
+
+## Comparison  
+  * You want to be abel to compare all groups against each other  
+  * But at the same time you need to meet the needs of the individual community  
