@@ -39,8 +39,8 @@ print (4 < 4)
 
 # In[8]:
 
-os.chdir ("/home/neal/Downloads") # change directory
-gbdChild = pd.io.stata.read_stata ("gbdChildMortality.dta")
+os.chdir ("J:/temp/bootcamp/stataWorkshop/data/") # change directory
+gbdChild = pd.io.stata.read_stata ("gbdChildMortalityData.dta")
 
 
 # In[65]:
@@ -84,8 +84,6 @@ plt.xlabel ('value')
 plt.ylabel ('freq')
 plt.title ('This is a histogram')
 
-
-# In[ ]:
 
 
 
