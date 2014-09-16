@@ -104,3 +104,60 @@
 ## Comparison  
   * You want to be abel to compare all groups against each other  
   * But at the same time you need to meet the needs of the individual community  
+
+# Evaluation Project 3: GAVI
+
+## Vaccine Improvement
+
+# Evaluation Project 4: Mesoamerican Health Initiative  
+
+## The Mesoamerican Region  
+  * Mexico and all Central America  
+  * Shared regional problems  
+    * Maternal and neonatal health  
+    * Limited info on health data  
+    * Problems with health implementation  
+  * Coordination help is neccessary  
+
+## MesoAmerican Health Initiative  
+  * Results based financed group  
+  * Both public and privately funded  
+  * managed by Inter-American Development Bank  
+  * 5 year duration  
+
+## Objectives  
+  * Are countries reaching their targets  
+  * Evaluate impact of specific components of the interventions  
+  * Target Populations: women in reproductive age and children under 5  
+
+## Indicators  
+  * Indicators are specific for country  
+  * Bothe health and knowledge based  
+
+## Study Design  
+  * Baseline  
+    * HH & Hf Survey  
+  * Follow up  
+    * HF survey  
+  * Follow up  
+    * HH & HF survey  
+  * Follow up  
+    * HH & HF survey  
+
+## Logistics  
+  * Language, transporation, weather, violence  
+
+## Activity Flowchart  
+  * Study and Survey Design (IHME)  
+  * Data Collection  (in-country agencies)  
+  * Analysis (IHME)  
+
+## Data Collection  
+  1. Household level surveys  
+  2. Health Facilty Surveys  
+
+## Analysis  
+  * Estimate Baseline  
+  * Track changes overtime  
+  * Look for intervention effects  
+
