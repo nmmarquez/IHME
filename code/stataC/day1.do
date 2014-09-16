@@ -38,3 +38,4 @@ log close // close log
 log off // Temp usupend logging
 log on // Resume log
 log using filename , append smcl // comma means options are to follow
+capture log off
