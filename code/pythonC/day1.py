@@ -83,7 +83,4 @@ gbdChild.under5Upper.hist()
 plt.xlabel ('value')
 plt.ylabel ('freq')
 plt.title ('This is a histogram')
-
-
-
-
+plt.show()
