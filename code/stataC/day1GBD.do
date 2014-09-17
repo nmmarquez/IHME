@@ -61,7 +61,7 @@ histogram under5MR, frequency color (maroon) // change color and use freq
 histogram under5MR, bin(10) // change bins
 
 * graph exercise
-use "GBD+WolrdBank.dta", clear // new data
+use "GBD+WorldBank.dta", clear // new data
 hist beds // simple hist
 hist beds, frequency // change to freq
 hist beds, width (1) // change width
