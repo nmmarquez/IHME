@@ -91,3 +91,27 @@ merge 1:1 iso year using "worldBankCountryIndicators.dta"
 drop _merge
 merge m:1 iso using "worldBankCountryInfo.dta"
 drop _merge
+
+* export delimited using "worldBankInfo.dta", replace
+mkdir realdealneal
+cd realdealneal
+save "mergedChildMort.dta", replace
+export delimited using "mergedChildMort.csv", replace
+
+* tostring and destring with possible option force need either gen or replace
+* encode will convert a variable to a labeled numeric
+
+* statistical inference
+clear all
+set more off
+cd "J:/temp/bootCamp/stataWorkshop/data"
+use "GBD+WorldBank.dta", clear
+
+ttest natIncomeGrowth == 0 if year==2010 // one sample ttest
+ttest neoMR, by(highIncome)
+
+ttest under5MR if year == 2010, by (completeEnroll)
+
+* ci gets ci for mean proportion and count
+ci completeEnroll if year==2010, binomial wilson
+ci under5MR if year==2010
