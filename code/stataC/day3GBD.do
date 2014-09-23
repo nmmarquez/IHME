@@ -79,3 +79,6 @@ display "The mean birth rate in 2010 was `r(mean)' (SD = `r(sd)')"
 local x: variable label pop65
 local y = wordcount("`x'")
 display "The label for pop65 is `x' and it contains `y' words."
+
+* see all local
+macro dir
