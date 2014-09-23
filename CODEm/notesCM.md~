@@ -64,4 +64,4 @@
     * leaves unchanges the status of all lvl 1 variables  
     * Is also significant and in the expected direction  
   * Do the same shit for lvl 3  
-  * we end up with a possible (2^(n) - 1) * 2^(m) * 2(l) models to choose from  
+  * we end up with a possible (2^(n) - 1) * 2^(m) * 2(l) models to choose from
